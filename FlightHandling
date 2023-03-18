@@ -1,0 +1,15 @@
+<Item type="CSpecialFlightHandlingData">
+          <mode value="1"/>
+          <fLiftCoefficient value="50.0" />
+          <fMinLiftVelocity value="0.0" />
+          <fDragCoefficient value="0.0" />
+          <fMaxPitchTorque value="500.0" />
+          <fMaxSteeringRollTorque value="50.0" />
+          <fMaxThrust value="20.0" />
+          <fYawTorqueScale value="-4.0f"/>
+          <fRollTorqueScale value="7.5f"/>
+          <fTransitionDuration value="1.0" />
+          <fPitchTorqueScale value="8.0"/>
+          <vecAngularDamping x="3.000000" y="2.00000" z="1.20000" />
+          <vecLinearDamping x="0.900000" y="0.100000" z="0.70000" />
+          </Item>
